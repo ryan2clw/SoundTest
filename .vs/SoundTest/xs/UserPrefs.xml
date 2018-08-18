@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3BE70C3A-1EB7-4EF2-9EF7-00F64CF2B8BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="35" Column="10" />
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SoundTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
